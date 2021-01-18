@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 17 13:01:34 2021
-
-@author: NiluferBozkus
-"""
-
 import math 
 
 sifre = input("Şİfrelemek istediğiniz metni girin: ").lower()  #şifreküçük harflerden oluşsun
